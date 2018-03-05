@@ -20,14 +20,3 @@ Elementos de estrutura:
 <p align="center">
   <img src="img/html5.png" width="350"/>
 </p>
-
-<!DOCTYPE html>	<html lang="pt-br">	
-<head>
-	<!--Esta tag indica ao browser que a página vair usar caracteres Unicode, para exibir letras com acentos e cedilha, por exemplo.-->
-	<meta charset="utf-8">	    	  
-	<title>Introdução ao HTML</title>	  	  
-</head>	
-<body>	  
-	<h1>Introdução ao HTML</h1>	
-</body>
-</html>
