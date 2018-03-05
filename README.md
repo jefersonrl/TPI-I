@@ -2,6 +2,12 @@
 
 Este repostitório esta destinado aos discentes do componente curricular de Técnicas de Programação para Internet I (HTML, CSS, JavaScript).
 
+HTML – HyperText Markup Language
+Todas as páginas da web são feitas em HTML. 
+O HTML não é uma linguagem de programação, e sim uma linguagem de marcação. Na sua missão de aprender programação, ela servirá pra você começar e entender como falar com o computador, como dar instruções pra ele e como escrever algo que ele entenda. 
+É fácil aprender HTML e você não irá sofrer quase nada. 
+Por outro lado ela servirá pra você se acostumar a quebrar a cara; escrever alguns comandos e não funcionar… isso é importante, porque faz parte da rotina na programação.
+
 Elementos de estrutura:
 
 <header> - cabeçalho da página ou de uma seção (não confundir com a tag <head>);
@@ -14,3 +20,14 @@ Elementos de estrutura:
 <p align="center">
   <img src="img/html5.png" width="350"/>
 </p>
+
+<!DOCTYPE html>	<html lang="pt-br">	
+<head>
+	<!--Esta tag indica ao browser que a página vair usar caracteres Unicode, para exibir letras com acentos e cedilha, por exemplo.-->
+	<meta charset="utf-8">	    	  
+	<title>Introdução ao HTML</title>	  	  
+</head>	
+<body>	  
+	<h1>Introdução ao HTML</h1>	
+</body>
+</html>
