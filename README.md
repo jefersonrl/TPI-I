@@ -11,4 +11,6 @@ Elementos de estrutura:
 <nav> - o conjunto de links que formam a navegação, seja o menu principal do site ou links relacionados ao conteúdo da página;
 <aside> - conteúdo relacionado ao artigo (como arquivos e posts relacionados em um blog, por exemplo).
 
-![alt text](img/html5.png)
+<p align="center">
+  <img src="img/html5.png" width="350"/>
+</p>
