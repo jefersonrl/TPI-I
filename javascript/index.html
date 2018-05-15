@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Funções Javascript</title>
+    <meta charset="utf-8">
+	<script>
+		function soma(n1, n2) {
+			return n1 + n2;
+		}
+		function subtracao(n1, n2) {
+			return n1 - n2;
+		}
+		function operacoes(n1, n2, op){
+			if( op == "Soma"){
+				alert(n1 + n2);
+				alert("teste");
+			}else if( op == "Sub"){
+				alert(n1 - n2);
+			}else{
+				alert("Nenhuma operação válida foi confirmada!");
+			}
+		}
+	</script>
+  </head>
+  <body>
+  <script>
+	v1 = prompt("Digite o valor 1");
+	v2 = prompt("Digite o valor 2");
+	op = prompt("Digite a operação");
+	operacoes(v1,v2,op);
+  </script>
+  </body>
+</html>
