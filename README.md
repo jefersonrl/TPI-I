@@ -4,13 +4,7 @@ Repositório oficial do componente curricular de Técnicas de Programação para
 
 ### HTML | CSS | JAVASCRIPT | GITHUB
 
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>Title of the document</title>
-</head>
-<body>
+
 		<div style="position: absolute; left: 10px; top: 10px; width: 1024px; height: 200px; background-color: #CCCCCC;" />
 		<div style="position: absolute; left: 0px; top: 0px; width: 250px; height: 200px; background: #FFF url('imgs/logo.png') no-repeat left bottom;" />
 
@@ -35,5 +29,4 @@ Repositório oficial do componente curricular de Técnicas de Programação para
 		</div>
 		<div style="position: absolute; left: 260px; top: 210px; width: 765px; height: 470px; background-color: #CCCCCC;" />
 		<div style="position: absolute; left: -260px; top: 480px; width: 1024px; height: 80px; background-color: #CCCCCC;" />
-</body>
-</html>
+
