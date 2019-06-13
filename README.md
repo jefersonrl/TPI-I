@@ -4,6 +4,6 @@ Repositório oficial do componente curricular de Técnicas de Programação para
 
 ### HTML | CSS | JAVASCRIPT | GITHUB
 
-#### EXEMPLO DE CONSTRUÇÃO DE UM WEBSITE COM A UTILIZAÇÃO DE HTML, CSS E JAVASCRIPT SEM A UTILIZAÇÃO DE BOOTSTRAP
+#### EXEMPLO DE CONSTRUÇÃO DE UM WEBSITE COM A UTILIZAÇÃO DE HTML, CSS E JAVASCRIPT.
 
 <img src="jaguar.png">
